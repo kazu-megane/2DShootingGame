@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../MyFPSGame/Assets/Scripts/NetworkManager.cs">
+    <Files>
+      <File FileName="../MyFPSGame/Assets/Scripts/NetworkManager.cs" Line="95" Column="19" />
+      <File FileName="../MyFPSGame/Assets/Scripts/PlayerNetworkMover.cs" Line="55" Column="54" />
+      <File FileName="../MyFPSGame/Assets/Scripts/PlayerShoot.cs" Line="31" Column="15" />
+      <File FileName="../MyFPSGame/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs" Line="1751" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
